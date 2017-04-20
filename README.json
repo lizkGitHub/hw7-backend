@@ -1,0 +1,5 @@
+{ 
+     "netid": "zl52",
+  "frontend": "https://hw7frontend-ricebook.surge.sh/",
+   "backend": "https://hw7rice-backend.herokuapp.com/"
+}
